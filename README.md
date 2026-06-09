@@ -1,47 +1,47 @@
-### André Campos · Backend Engineer
+### André Campos · Engenheiro Backend
 
 ```go
-type Engineer struct {
-    Name        string
-    Focus       []string
+type Engenheiro struct {
+    Nome        string
+    Foco        []string
     Stack       []string
-    AIWorkflow  []string
-    Location    string
+    WorkflowIA  []string
+    Localização string
 }
 
-var me = Engineer{
-    Name:  "André Campos",
-    Focus: []string{"Microservices", "Payment Gateways", "System Architecture"},
+var eu = Engenheiro{
+    Nome:  "André Campos",
+    Foco:  []string{"Microsserviços", "Gateways de Pagamento", "Arquitetura de Sistemas"},
     Stack: []string{"Go", "Node.js", "TypeScript", "Python", "SQL"},
-    AIWorkflow: []string{"Cursor IDE", "Claude Code", "Sub-agent orchestration"},
-    Location: "São Paulo, BR",
+    WorkflowIA:  []string{"Cursor IDE", "Claude Code", "Orquestração de sub-agentes"},
+    Localização: "São Paulo, BR",
 }
 ```
 
 ---
 
-**Payments & Fintech**
+**Pagamentos & Fintech**
 
-Deep experience integrating and architecting payment systems across the Brazilian and global ecosystem:
+Experiência aprofundada em integração e arquitetura de sistemas de pagamento:
 
 `Pagar.me` · `Stripe` · `Mercado Pago` · `PagBank` · `Yuno` · `Braspag`
 
-Split payment flows, webhook handling, reconciliation, and multi-gateway orchestration.
+Fluxos de split de pagamento, tratamento de webhooks, reconciliação e orquestração multi-gateway.
 
 ---
 
-**What I build**
+**O que eu construo**
 
-- Distributed backend systems with Go and Node.js
-- Payment gateway integrations with split-payment logic
-- Microservices on GCP with CloudFlare for edge
-- Email pipelines (SendGrid, Zoho Mail)
-- CI/CD infrastructure and DevOps tooling
-- AI-augmented development workflows — I use Claude + Cursor to deliver at squad velocity solo
+- Sistemas backend distribuídos com Go e Node.js
+- Integrações com gateways de pagamento e lógica de split
+- Microsserviços na GCP com Cloudflare na borda
+- Pipelines de e-mail (SendGrid, Zoho Mail)
+- Infraestrutura CI/CD e ferramentas DevOps
+- Fluxos de desenvolvimento com IA — uso Claude + Cursor para entregar no ritmo de uma squad inteiro, sozinho
 
 ---
 
-**Tech Stack**
+**Stack**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -54,7 +54,7 @@ Split payment flows, webhook handling, reconciliation, and multi-gateway orchest
 
 ---
 
-**Connect**
+**Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--t--campos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-t-campos/)
 [![Email](https://img.shields.io/badge/Email-andre.tatibano%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andre.tatibano@gmail.com)
