@@ -37,7 +37,7 @@ Fluxos de split de pagamento, tratamento de webhooks, reconciliação e orquestr
 - Microsserviços na GCP com Cloudflare na borda
 - Pipelines de e-mail (SendGrid, Zoho Mail)
 - Infraestrutura CI/CD e ferramentas DevOps
-- Engenharia aumentada por IA: uso Cursor + Claude Code como parte estruturada do processo de desenvolvimento
+- Engenharia aumentada por IA: uso do Cursor(Desktop + SDK) como parte estruturada de um processo automatizado de escrita de codigo
 
 ---
 
